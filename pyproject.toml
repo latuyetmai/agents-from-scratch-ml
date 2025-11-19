@@ -9,6 +9,7 @@ dependencies = [
     "langchain-openai",
     "langgraph>=0.4.2",
     "langsmith[pytest]>=0.3.4",
+    "databricks-langchain",
     "pandas",
     "matplotlib",
     "pytest",
